@@ -1,0 +1,28 @@
+html { font-size: 50px;
+  background-color: rgb(253, 191, 110);}
+h1{color: black;
+   font-size: 50px;
+}
+ul {
+    font-size: 35px;
+    margin-top: 40px;
+
+}
+a {
+color: black;
+
+}
+p {
+font-size: 35px ;
+ padding: 20px;
+}
+.parag1 {
+    background-color: #f5f5f5;
+    margin: 40px
+   
+    
+}
+.parag2 {
+ background-color: #f0cce2;
+
+  }
